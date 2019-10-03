@@ -6,10 +6,10 @@
 	<body>
 		<script>
 		var myDiv = document.createElement("div");
-		var myPhrase = document.createElement("Phrase");
-		myPhase.innerText = 'new element added';
+		var myPhrase = document.createElement("p");
+		myPhrase.innerText = 'new element added';
 		document.body.appendChild(myDiv);
-		myDiv.appendChild(myPhase);
+		myDiv.appendChild(myPhrase);
 		</script>
 	</body>
 </html>
