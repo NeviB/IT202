@@ -28,8 +28,6 @@ function getName(){
 if(isset($_GET)){
 	echo "<br><pre>" . var_export($_GET, true) . "</pre><br>";
 
-if(isset($_GET['password']))!==(isset()$_GET['password2']){
-echo "<p>"your passwords are not the same " "</p>";
 
 }
 }
